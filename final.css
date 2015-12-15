@@ -36,7 +36,7 @@
 
 .jumbotron p {
   font-size: 18px;
-  color: #e6e6e6;
+  color: #b3d8ff;
   font-family: 'Muli', sans-serif;
 }
 
@@ -48,6 +48,7 @@
   font-family: 'Sanchez', serif;
   font-size: 22px;
   font-weight: bold;
+  color: #00bfff;
 }
 
 .learn-more a {
@@ -64,7 +65,7 @@
 }
 
 .neighborhood-guides h2{
-    color: #393c3d;
+    color: #00bfff;
     font-size: 20px;
     font-family: 'Sanchez', serif;
 
