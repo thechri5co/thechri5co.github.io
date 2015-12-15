@@ -1,9 +1,14 @@
+@import url(https://fonts.googleapis.com/css?family=Arimo:400,400italic,700,700italic);
+@import url(https://fonts.googleapis.com/css?family=Sanchez:400,400italic);
+@import url(https://fonts.googleapis.com/css?family=Muli:400,300,300italic,400italic);
+
 .nav a {
   color: #5a5a5a;
-  font-size: 11px;
+  font-size: 12px;
   font-weight: bold;
   padding: 14px 10px;
   text-transform: uppercase;
+  font-family: 'Arimo', sans-serif;
 }
 
 .nav li {
@@ -24,14 +29,15 @@
 
 .jumbotron h1 {
   color: #fff;
-  font-size: 48px;  
-  font-family: 'Shift', sans-serif;
+  font-size: 52px;  
+  font-family: 'Sanchez', serif;
   font-weight: bold;
 }
 
 .jumbotron p {
-  font-size: 20px;
+  font-size: 24px;
   color: #fff;
+  font-family: 'Muli', sans-serif;
 }
 
 .learn-more {
@@ -39,8 +45,8 @@
 }
 
 .learn-more h3 {
-  font-family: 'Shift', sans-serif;
-  font-size: 18px;
+  font-family: 'Sanchez', serif;
+  font-size: 22px;
   font-weight: bold;
 }
 
@@ -55,11 +61,14 @@
 
 .neighborhood-guides h2{
     color: #393c3d;
-    font-size: 24px;
+    font-size: 20px;
+    font-family: 'Sanchez', serif;
 
 }
 
 .neighborhood-guides p{
-     font-size: 15px;
-    margin-bottom: 13px;    
+     font-size: 14px;
+    margin-bottom: 13px;
+    font-family: 'Muli', sans-serif;
+  
 }
