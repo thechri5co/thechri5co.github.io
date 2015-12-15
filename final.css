@@ -54,6 +54,10 @@
   color: #00b0ff;
 }
 
+.learn-more p {
+  font-family: 'Muli', sans-serif;
+}
+
 .neighborhood-guides{
     background-color: #efefef;
     border-bottom: 1px solid #dbdbdb;
